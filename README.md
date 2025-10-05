@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Liu Di, a student from BUAA.
+
+### 致力于打造控制上更优、智能上更强的各种机器人 :robot:
+
+### 梦想成为一名经济自由的极客 :zap:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemperorD)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemperorD)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2046%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
