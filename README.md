@@ -5,6 +5,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemperorD)
 
 <!--START_SECTION:waka-->
+
+```txt
+C++        15 hrs 31 mins  ████████████████▓░░░░░░░░   66.50 %
+CMake      3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown   1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Python     1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+YAML       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+```
+
 <!--END_SECTION:waka-->
 
 
