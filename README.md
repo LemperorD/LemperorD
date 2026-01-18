@@ -7,13 +7,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemperorD)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 79.5 kB Used in GitHub's Storage 
+> 📦 79.6 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2026
  > 
@@ -48,10 +48,16 @@ Sunday                   52 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 15 mins        ███████████████████░░░░░░   74.55 % 
+YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+C++                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nav2_ws                  1 hr 3 mins         ████████████████░░░░░░░░░   62.98 % 
+LemperorD                31 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+pb2025_sentry_behavior   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 ```
 
 **I Mostly Code in C++** 
@@ -68,7 +74,7 @@ C                        3 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 09:50:38 UTC
+ Last Updated on 18/01/2026 04:47:21 UTC
 <!--END_SECTION:waka-->
 
 
