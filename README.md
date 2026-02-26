@@ -4,8 +4,6 @@
 
 ### 梦想成为一名经济自由的极客 :zap:
 
-[![LemperorD's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemperorD)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%206%20mins-blue?style=flat)
 
