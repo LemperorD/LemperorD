@@ -5,13 +5,13 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 525.3 kB Used in GitHub's Storage 
  > 
-> 🏆 678 Contributions in the Year 2026
+> 🏆 685 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-🌆 Daytime                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌃 Evening                719 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
-🌙 Night                  690 commits         ████████░░░░░░░░░░░░░░░░░   31.11 % 
+🌞 Morning                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌆 Daytime                570 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌃 Evening                725 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌙 Night                  690 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Tuesday                  281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Wednesday                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Thursday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Friday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Saturday                 674 commits         ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Sunday                   327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Monday                   208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Tuesday                  281 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Wednesday                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Thursday                 241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Saturday                 674 commits         ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Sunday                   327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 ```
 
 
@@ -44,18 +44,18 @@ Sunday                   327 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.72 % 
-YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-CMake                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+C++                      6 hrs 40 mins       ██████████████░░░░░░░░░░░   55.01 % 
+CMake                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+YAML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Python                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🐱‍💻 Projects: 
-guganav                  9 hrs 30 mins       ██████████████████████░░░   88.47 % 
-ROG-Map                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-MPC-test                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-MPC_test                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-pb_omni_pid_pursuit_contr8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+guganav                  10 hrs 52 mins      ██████████████████████░░░   89.66 % 
+ROG-Map                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+MPC-test                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+MPC_test                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+pb_omni_pid_pursuit_contr8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 **I Mostly Code in C++** 
@@ -75,7 +75,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 06:33:12 UTC
+ Last Updated on 25/07/2026 06:24:39 UTC
 <!--END_SECTION:waka-->
 
 
