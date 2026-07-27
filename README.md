@@ -5,7 +5,7 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,18 +46,18 @@ Sunday                   328 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      6 hrs 2 mins        ███████████████░░░░░░░░░░   59.33 % 
-YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-CMake                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+C++                      5 hrs 1 min         ████████████████░░░░░░░░░   62.50 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+CMake                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-guganav                  9 hrs 7 mins        ██████████████████████░░░   89.61 % 
-ROG-Map                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-MPC-test                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-pb_omni_pid_pursuit_contr8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-transistor_rm2026_algorit7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+guganav                  7 hrs 14 mins       ███████████████████████░░   90.17 % 
+ROG-Map                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+transistor_rm2026_algorit7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+pb_omni_pid_pursuit_contr5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+DDR-opt                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +77,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 06:43:04 UTC
+ Last Updated on 27/07/2026 07:40:12 UTC
 <!--END_SECTION:waka-->
 
 
