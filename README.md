@@ -5,8 +5,6 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2010%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.44%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -46,18 +44,40 @@ Sunday                   328 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 1 min         ████████████████░░░░░░░░░   62.50 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-CMake                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+C++                      4 hrs 42 mins       █████████████████░░░░░░░░   66.03 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+YAML                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+CMake                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🐱‍💻 Projects: 
-guganav                  7 hrs 14 mins       ███████████████████████░░   90.17 % 
-ROG-Map                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-transistor_rm2026_algorit7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-pb_omni_pid_pursuit_contr5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-DDR-opt                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+guganav                  6 hrs 45 mins       ████████████████████████░   95.00 % 
+ROG-Map                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+transistor_rm2026_algorit7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+lightning-lm             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+DDR-opt                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 27 mins (34.47%)
+
+✍️ 3,084 lines written by AI, 422 lines written by hand (87.96% AI-written)
+
+🔤 87,758,343 Input Tokens, 203,422 Output Tokens
+
+💵 $265.32 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 121 AI Prompts
+
+Deepseek                 2,990 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.96% of written lines came from AI
+📝 Concise Prompter — average 107 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
+🚀 High AI Trust — 13.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -77,7 +97,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 07:40:12 UTC
+ Last Updated on 28/07/2026 06:33:34 UTC
 <!--END_SECTION:waka-->
 
 
