@@ -5,9 +5,9 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.44%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,7 +15,7 @@
 
 > 📦 525.3 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2026
+> 🏆 691 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                572 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌃 Evening                743 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌙 Night                  694 commits         ████████░░░░░░░░░░░░░░░░░   30.72 % 
+🌞 Morning                252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                572 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌃 Evening                743 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌙 Night                  698 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Tuesday                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Thursday                 252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Friday                   270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Saturday                 680 commits         ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Sunday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Monday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Tuesday                  283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Wednesday                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Thursday                 252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Friday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Saturday                 680 commits         ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Sunday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 ```
 
 
@@ -48,40 +48,38 @@ Sunday                   328 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      5 hrs 20 mins       ██████████████░░░░░░░░░░░   56.80 % 
-Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-CMake                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+C++                      4 hrs 3 mins        ██████████████░░░░░░░░░░░   56.31 % 
+Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+CMake                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-guganav                  8 hrs 25 mins       ██████████████████████░░░   89.50 % 
-DDR-opt                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-transistor_rm2026_algorit13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-ROG-Map                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-lightning-lm             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+guganav                  6 hrs 29 mins       ███████████████████████░░   90.04 % 
+DDR-opt                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+transistor_rm2026_algorit6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (48.05%)
+⏱ AI Coding Time: 4 hrs 24 mins (61.17%)
 
-✍️ 5,415 lines written by AI, 422 lines written by hand (92.77% AI-written)
+✍️ 5,415 lines written by AI, 363 lines written by hand (93.72% AI-written)
 
-🔤 77,400,446 Input Tokens, 127,289 Output Tokens
+🔤 77,074,242 Input Tokens, 100,777 Output Tokens
 
-💵 $240.56 Estimated AI Cost This Week
+💵 $239.04 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 18 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
 Deepseek                 5,491 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.77% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+🤖 AI-Driven — 93.72% of written lines came from AI
+📝 Concise Prompter — average 106 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 8.72% of changed lines were hand-edited
+🚀 High AI Trust — 7.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -101,7 +99,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 06:34:34 UTC
+ Last Updated on 31/07/2026 06:50:59 UTC
 <!--END_SECTION:waka-->
 
 
