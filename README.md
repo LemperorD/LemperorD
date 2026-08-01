@@ -48,38 +48,38 @@ Sunday                   328 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      4 hrs 3 mins        ██████████████░░░░░░░░░░░   56.31 % 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-CMake                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-C                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+C++                      2 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+CMake                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🐱‍💻 Projects: 
-guganav                  6 hrs 29 mins       ███████████████████████░░   90.04 % 
-DDR-opt                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-transistor_rm2026_algorit6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+guganav                  5 hrs 19 mins       ██████████████████████░░░   88.38 % 
+DDR-opt                  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+transistor_rm2026_algorit5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (61.17%)
+⏱ AI Coding Time: 4 hrs 20 mins (72.0%)
 
-✍️ 5,415 lines written by AI, 363 lines written by hand (93.72% AI-written)
+✍️ 5,008 lines written by AI, 68 lines written by hand (98.66% AI-written)
 
-🔤 77,074,242 Input Tokens, 100,777 Output Tokens
+🔤 76,751,326 Input Tokens, 98,256 Output Tokens
 
 💵 $239.04 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 17 AI Prompts
+🧠 5 AI Sessions, 15 AI Prompts
 
 Deepseek                 5,491 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.72% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
+🤖 AI-Driven — 98.66% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.37% of changed lines were hand-edited
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -99,7 +99,7 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LemperorD/LemperorD/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 06:50:59 UTC
+ Last Updated on 01/08/2026 06:36:22 UTC
 <!--END_SECTION:waka-->
 
 
