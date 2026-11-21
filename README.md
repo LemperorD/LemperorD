@@ -5,13 +5,13 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 931.5 kB Used in GitHub's Storage 
+> 📦 931.7 kB Used in GitHub's Storage 
  > 
 > 🏆 967 Contributions in the Year 2026
  > 
@@ -24,21 +24,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                955 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-🌆 Daytime                1968 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌃 Evening                2160 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
-🌙 Night                  1101 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+🌞 Morning                1014 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                2074 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                2248 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
+🌙 Night                  1182 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   763 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Tuesday                  847 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Wednesday                779 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Thursday                 852 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Friday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Saturday                 1558 commits        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Sunday                   670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Monday                   793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Wednesday                831 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Thursday                 893 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   743 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 1653 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Sunday                   706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 
 
@@ -46,40 +46,40 @@ Sunday                   670 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      7 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.01 % 
-YAML                     3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Markdown                 3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+C++                      4 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+YAML                     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Python                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🐱‍💻 Projects: 
-pure-nav                 11 hrs              ███████████████░░░░░░░░░░   61.76 % 
-drone_auto_inspection    5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.94 % 
-pure-uav                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-ban                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-kalibr_ros2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+pure-nav                 9 hrs 20 mins       █████████████████░░░░░░░░   66.18 % 
+drone_auto_inspection    4 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+uav_predict_sim          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+ban                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+kalibr_ros2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (52.12%)
+⏱ AI Coding Time: 7 hrs 56 mins (56.22%)
 
-✍️ 4,197 lines written by AI, 835 lines written by hand (83.41% AI-written)
+✍️ 4,197 lines written by AI, 660 lines written by hand (86.41% AI-written)
 
-🔤 2,930,497 Input Tokens, 776,701 Output Tokens
+🔤 2,787,414 Input Tokens, 653,790 Output Tokens
 
-💵 $31.34 Estimated AI Cost This Week
+💵 $28.84 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 73 AI Prompts
+🧠 26 AI Sessions, 68 AI Prompts
 
 GPT                      4,202 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.41% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
+🤖 AI-Driven — 86.41% of written lines came from AI
+📝 Concise Prompter — average 156 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 22.57% of changed lines were hand-edited
+🚀 High AI Trust — 18.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -95,7 +95,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 12:42:59 UTC
+ Last Updated on 21/11/2026 12:24:38 UTC
 <!--END_SECTION:waka-->
 
 
