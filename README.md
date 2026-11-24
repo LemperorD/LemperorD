@@ -5,19 +5,19 @@
 ### 梦想成为一名经济自由的极客 :zap:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 931.9 kB Used in GitHub's Storage 
  > 
-> 🏆 967 Contributions in the Year 2026
+> 🏆 968 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -46,41 +46,41 @@ Sunday                   719 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-C++                      4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Markdown                 2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Python                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+YAML                     5 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.92 % 
+C++                      3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Python                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🐱‍💻 Projects: 
-pure-nav                 9 hrs 43 mins       ████████████████░░░░░░░░░   62.48 % 
-drone_auto_inspection    5 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-xi                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-uav_predict_sim          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-ban                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+pure-nav                 8 hrs 6 mins        ██████████████░░░░░░░░░░░   56.47 % 
+drone_auto_inspection    5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
+uav_predict_sim          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+xi                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+ban                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 43 mins (62.46%)
+⏱ AI Coding Time: 9 hrs 1 min (62.84%)
 
-✍️ 3,776 lines written by AI, 605 lines written by hand (86.19% AI-written)
+✍️ 3,589 lines written by AI, 578 lines written by hand (86.13% AI-written)
 
-🔤 3,209,366 Input Tokens, 710,206 Output Tokens
+🔤 2,903,112 Input Tokens, 652,557 Output Tokens
 
-💵 $32.97 Estimated AI Cost This Week
+💵 $29.53 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 91 AI Prompts
+🧠 24 AI Sessions, 81 AI Prompts
 
-GPT                      3,781 lines         █████████████████████████   100.00 % 
+GPT                      3,594 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.19% of written lines came from AI
-📝 Concise Prompter — average 205 characters per prompt
+🤖 AI-Driven — 86.13% of written lines came from AI
+📝 Concise Prompter — average 224 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 17.88% of changed lines were hand-edited
+🚀 High AI Trust — 17.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -96,7 +96,7 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 14:20:40 UTC
+ Last Updated on 24/11/2026 14:45:21 UTC
 <!--END_SECTION:waka-->
 
 
